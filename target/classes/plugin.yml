@@ -1,0 +1,4 @@
+name: HideTags
+version: '1.0-SNAPSHOT'
+main: org.bee.hidetags.HideTags
+api-version: '1.20'

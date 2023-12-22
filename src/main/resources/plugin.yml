@@ -1,0 +1,4 @@
+name: HideTags
+version: '${project.version}'
+main: org.bee.hidetags.HideTags
+api-version: '1.20'
